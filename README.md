@@ -18,7 +18,7 @@ Ingeniero centrado en llevar la **IA y la automatización al mundo industrial re
 <td width="50%" valign="top">
 
 ### 🏭 Experiencia
-- IA aplicada al **secado y control de hornos** industriales
+- IA aplicada al **secado y control de hornos** industriales 
 - **Automatización** PLC / **PROFINET** y adquisición de señales
 - **ERP interno** e integraciones entre sistemas
 - Infraestructura de **IA autoalojada (RAG)** de extremo a extremo
