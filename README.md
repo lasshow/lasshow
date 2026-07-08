@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-Ingeniero centrado en llevar la **IA y la automatización al mundo industrial real**. En **GHI Hornos Industriales** desarrollo, de principio a fin, sistemas que conectan el dato de planta con modelos de IA — y monto mi propia infraestructura de IA autoalojada.
+Persona ingeniosa centrado en llevar la **IA y la automatización al mundo industrial real**. En **GHI Hornos Industriales** desarrollo, de principio a fin, sistemas que conectan el dato de planta con modelos de IA — y monto mi propia infraestructura de IA autoalojada.
 
 <table>
 <tr>
