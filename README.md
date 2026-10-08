@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=230&section=header&text=Iker%20Lasso&fontSize=52&fontColor=70a5fd&fontAlignY=35&desc=IA%20Industrial%20%26%20Automatizaci%C3%B3n%20%7C%20PLC%2FPROFINET%20%7C%20Visi%C3%B3n%203D%20%7C%20RAG&descSize=18&descColor=a9fef7&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=230&section=header&text=Iker%20Lasso&fontSize=52&fontColor=70a5fd&fontAlignY=35&desc=IA%20Industrial%20%26amp%3B%20Automatizaci%C3%B3n%20%7C%20PLC%2FPROFINET%20%7C%20Visi%C3%B3n%203D%20%7C%20RAG&descSize=18&descColor=a9fef7&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iker-lasso-41568411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ikerlassohernaez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://lasshow.com/"><img src="https://img.shields.io/badge/lasshow.com-D14836?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.ghifurnaces.com"><img src="https://img.shields.io/badge/GHI%20Furnaces-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=lasshow&style=for-the-badge&color=0d1117&label=VISITAS"/>
+  <img src="https://komarev.com/ghpvc/?username=lasshow&label=VISITAS&color=0d1117&style=for-the-badge"/>
 </p>
 
 ---
