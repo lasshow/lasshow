@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/iker-lasso-41568411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://lasshow.com/"><img src="https://img.shields.io/badge/lasshow.com-D14836?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.ghifurnaces.com"><img src="https://img.shields.io/badge/GHI%20Furnaces-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=lasshow&label=VISITAS&color=0d1117&style=for-the-badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lasshow.lasshow&left_text=VISITAS&left_color=%23555555&right_color=%230d1117"/>
 </p>
 
 ---
