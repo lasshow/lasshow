@@ -134,7 +134,7 @@ Visor de ficheros `.dat` de **ibaPDA** con exportación a Excel — análisis de
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iker-lasso-41568411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:ilasso@ghifurnaces.com"><img src="https://img.shields.io/badge/ilasso@ghifurnaces.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:hola@lasshow.com"><img src="https://img.shields.io/badge/hola@lasshow.com-D14836?style=flat-square&logo=minutemailer&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Bilbao,_Espa%C3%B1a-0d1117?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
